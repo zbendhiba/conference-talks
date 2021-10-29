@@ -6,13 +6,13 @@
 
 Language : Moroccan Darija
 
-This session covers an introduction the Camel Quarkus project. Find the slides [here](https://github.com/zbendhiba/conference-talks/2021/CQ-Blablaconf-20211029.pdf), the live demo code [here](https://github.com/zbendhiba/telegram-kafka).
+This session covers an introduction the Camel Quarkus project. Find the slides [here](https://github.com/zbendhiba/conference-talks/blob/main/2021/CQ-Blablaconf-20211029.pdf), the live demo code [here](https://github.com/zbendhiba/telegram-kafka).
 
 ### Supersonic Subatomic Apache Camel (JLove 21 conf - June 2021)
 
 Language : English
 
-This session covers an introduction the Camel Quarkus project. Find the slides [here](https://github.com/zbendhiba/conference-talks/2021/cq-jLove2021.pdf), the live demo code [here](https://github.com/zbendhiba/telegram-kafka).
+This session covers an introduction the Camel Quarkus project. Find the slides [here](https://github.com/zbendhiba/conference-talks/blob/main/2021/cq-jLove2021.pdf), the live demo code [here](https://github.com/zbendhiba/telegram-kafka).
 
 ### Intégration avec Camel Quarkus (DevNation Day France - June 2021)
 
