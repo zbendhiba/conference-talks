@@ -1,4 +1,4 @@
-# List of talks delivered in various conferences
+# List of talks/labs/panels delivered in various conferences
 
 ## Tech talks
 
