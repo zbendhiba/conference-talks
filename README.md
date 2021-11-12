@@ -4,7 +4,11 @@
 
 ### Coming soon
 
-N/A
+#### Intégration à l'ère du cloud avec Camel Quarkus (SnowCamp - February 2022)
+
+Language : French
+
+Co-talk with Alexandre Gallice
 
 ### Past 
 
@@ -50,13 +54,13 @@ N/A
 
 ### Coming soon
 
+N/A
+
+### Past 
+
 #### Diversité & Open source (Open Source Experience - November 2021)
 
 Language : French
-
-Find more information in [agenda](https://www.opensource-experience.com/event/).
-
-### Past 
 
 #### Etre un.e développeur.se Open Source épanoui.e (DevNation Day - June 2021)
 
