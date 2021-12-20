@@ -32,11 +32,11 @@ This session covers an introduction the Camel Quarkus project. Find the slides [
 
 #### Integration in OpenShift (Openshift Commons - May 2021)
 
-Co-talk with Rachel Jordan and María Arias de Reyna
+Co-talk with [Rachel Yordán](https://github.com/kahboom) and [María Arias de Reyna](https://github.com/Delawen)
 
 Language : English
 
-This session gives an overview of Integration with Camel for Kubernetes and Openshift environment. Find the recording [here](https://youtu.be/5dDsVmS9HKk).
+This session gives an overview of Integration with Camel for Kubernetes and Openshift environments. Find the recording [here](https://youtu.be/5dDsVmS9HKk).
 
 ## Labs
 
