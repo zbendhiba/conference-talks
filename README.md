@@ -8,7 +8,7 @@
 
 Language : French
 
-Co-talk with Alexandre Gallice
+Co-talk with [Alexandre Gallice](https://github.com/aldettinger)
 
 ### Past 
 
@@ -45,7 +45,7 @@ This session gives an overview of Integration with Camel for Kubernetes and Open
 
 Language : French
 
-Co-talk with Alexandre Gallice
+With [Alexandre Gallice](https://github.com/aldettinger)
 
 ### Past 
 N/A
