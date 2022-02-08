@@ -2,6 +2,14 @@
 
 ## 2022
 ### Talks
+#### Intégration à l'ère du cloud avec Camel Quarkus (Paris Jug - February 2022)
+Language : French
+
+Co-talk with [Alexandre Gallice](https://github.com/aldettinger)
+
+This session covers an introduction the Camel Quarkus project. Find the slides [here](https://github.com/zbendhiba/conference-talks/blob/main/2022/cq-ParisJug20220208.pdf), the live demo code [here](https://github.com/zbendhiba/telegram-kafka/tree/parisjug2022).
+
+
 #### Intégration à l'ère du cloud avec Camel Quarkus (SnowCamp - February 2022)
 
 Language : French
