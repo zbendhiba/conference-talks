@@ -2,6 +2,11 @@
 
 ## 2022
 ### Talks
+#### Intégration à l'ère du cloud avec Camel Quarkus (DevDay AXA - April 2022)
+Language : French
+
+This session covers an introduction the Camel Quarkus project. Find the slides [here](https://github.com/zbendhiba/conference-talks/blob/main/2022/CEQ-DevDay-20220405.pdf), the live demo code [here](https://github.com/zbendhiba/telegram-kafka/tree/axa-final).
+
 #### Intégration à l'ère du cloud avec Camel Quarkus (Paris Jug - February 2022)
 Language : French
 
